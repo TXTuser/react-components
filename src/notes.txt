@@ -1,0 +1,6 @@
+// use 
+https://marketplace.visualstudio.com/items?itemName=rodrigovallades.es7-react-js-snippets
+
+rfc + entr
+rcc + entr
+rafc + entr
